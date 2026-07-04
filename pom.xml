@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>com.url</groupId>
-	<artifactId>url-shortener-sb</artifactId>
+	<artifactId>QuickURL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
